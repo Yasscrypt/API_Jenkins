@@ -1,5 +1,5 @@
 *** Variables ***
 
-${USERNAME} =  Dev
-${PASSWORD} =  Yep
+${USERNAME} =  New
+${PASSWORD} =  Yass
 ${WEBSITE_LINK} =  http://localhost/demo/api/user
